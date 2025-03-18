@@ -14,8 +14,7 @@
   
   <a href="https://www.linkedin.com/in/yasminioliveira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "mailto:oliveira.yasmini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-
- <a href = "https://youtu.be/dQw4w9WgXcQ?si=QeOT3ogI6zTKQkGU"><img src="https://img.shields.io/badge/surprise-8A2BE2"></a>
+<a href = "https://youtu.be/dQw4w9WgXcQ?si=QeOT3ogI6zTKQkGU"><img src="https://img.shields.io/badge/surprise-8A2BE2" target="_blank"></a>
 
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yasmini98&count_private=true&show_icons=true&theme=synthwave)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yasmini98&layout=compact&theme=synthwave)](https://github.com/yasmini98/github-readme-stats)
