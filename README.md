@@ -1,16 +1,15 @@
-# 🇧🇷 Olá, bem vindo ao perfil da Yasmini!✨🎀
-## 🇺🇸 Hi, welcome to Yasmini's profile!
+# 🇺🇸 Hi, welcome to Yasmini's profile!
+### 🇧🇷 Olá, bem vindo ao perfil da Yasmini!✨🎀
 
 <!-- - 🔭 I’m currently working on ...-->
-- 🌱 Estou re-estudando a base de frontend (HTML 5, CSS, Javascript). 
-<br><sub>I’m currently re-studying the basis of frontend development (HTML 5, CSS, Javascript)</sub>
+- 🌱I’m currently re-studying the basis of frontend development (HTML 5, CSS, Javascript)
+<br><sub>Estou re-estudando a base de frontend (HTML 5, CSS, Javascript). </sub>
   
-- 👯 Estou a procura de colaborar em projetos empolgantes em uma equipe colaborativa. 
-<br><sub>I’m looking to collaborate on exciting projects with collaborative team.</sub>
-- 😄 Meus pronomes são ela/dela.
-<br><sub>My pronoums are she/her.</sub>
-- ⚡ Fato engraçado: aprendi inglês através de memes na internet.
-<br><sub>Fun fact: I've learned English by memes in internet.</sub>
+- 👯I’m looking to collaborate on exciting projects with collaborative team.
+<br><sub>Estou a procura de colaborar em projetos empolgantes em uma equipe colaborativa. </sub>
+
+- ⚡Fun fact: I've learned English by memes in internet.
+<br><sub>Fato engraçado: aprendi inglês através de memes na internet.</sub>
   
   <a href="https://www.linkedin.com/in/yasminioliveira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "mailto:oliveira.yasmini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -25,5 +24,4 @@
   <img align="center" alt="Yas-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Yas-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Yas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-
 </div>
