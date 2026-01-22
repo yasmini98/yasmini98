@@ -8,7 +8,7 @@
 - 👯I’m looking to collaborate on exciting projects with collaborative team.
 <br><sub>Estou a procura de colaborar em projetos empolgantes em uma equipe colaborativa. </sub>
 
-- ⚡Fun fact: I've learned English by memes in internet.
+- ⚡Fun fact: I've learned English by memes on internet.
 <br><sub>Fato engraçado: aprendi inglês através de memes na internet.</sub>
   
   <a href="https://www.linkedin.com/in/yasminioliveira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
