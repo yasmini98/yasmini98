@@ -1,11 +1,13 @@
 # 🇺🇸 Hi, welcome to Yasmini's profile!
 ### 🇧🇷 Olá, bem vindo ao perfil da Yasmini!✨🎀
 
-<!-- - 🔭 I’m currently working on ...-->
-- 🌱I’m currently re-studying the basis of frontend development (HTML 5, CSS, Javascript)
-<br><sub>Estou re-estudando a base de frontend (HTML 5, CSS, Javascript). </sub>
+- 🔭 I’m currently working on an ESG system and project focused in Brazil's coorporations. My goal is to matching high social positive impacts and tax relief for big companies.
+<br><sub>Estou atualmente trabalhando em um sistema ESG focado em corporações brasileiras. Meu objetivo é combinar alto impacto positivo social e alívio fiscal para grandes empresas. </sub>
+
+- 🌱 Graduating in Systems Analisys and Development at PUC MG.
+<br><sub>Graduanda de Análise e Desenvolvimento de Sistemas na PUC Minas</sub>
   
-- 👯I’m looking to collaborate on exciting projects with collaborative team.
+- 👯I’m open to collaborate on exciting projects with collaborative team.
 <br><sub>Estou a procura de colaborar em projetos empolgantes em uma equipe colaborativa. </sub>
 
 - ⚡Fun fact: I've learned English by memes on internet.
