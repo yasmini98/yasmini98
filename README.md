@@ -12,8 +12,8 @@
 ### 🇧🇷 Olá, bem vindo ao perfil da Yasmini!✨🩷
 -->
 
-- 🪴 I’m currently working on an ESG system and project focused in Brazil's coorporations. My goal is to matching high social positive impacts and tax relief for big companies.
-<br><sub>Estou atualmente trabalhando em um sistema ESG focado em corporações brasileiras. Meu objetivo é combinar alto impacto positivo social e alívio fiscal para grandes empresas. </sub>
+- 🪴 I’m currently working on an ESG system and project focused in Brazil's coorporations. My goal is to matching high social positive impacts and compliance or even tax relief for big companies.
+<br><sub>Estou atualmente trabalhando em um sistema ESG focado em corporações brasileiras. Meu objetivo é combinar alto impacto positivo social e compliance ou até mesmo alívio fiscal para grandes empresas. </sub>
 
 - 🎓 Graduating in Systems Analisys and Development at PUC MG.
 <br><sub>Graduanda de Análise e Desenvolvimento de Sistemas na PUC Minas</sub>
