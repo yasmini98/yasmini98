@@ -12,14 +12,14 @@
 ### 🇧🇷 Olá, bem vindo ao perfil da Yasmini!✨🩷
 -->
 
-- 🪴 I’m currently working on an ESG system and project focused in Brazil's coorporations. My goal is to matching high social positive impacts and compliance or even tax relief for big companies.
+- 🪴 I’m currently working on "Optima ESG" an system and project focused in Brazil's coorporations. My goal is to matching high social positive impacts and compliance or even tax relief for big companies.
 <br><sub>Estou atualmente trabalhando em um sistema ESG focado em corporações brasileiras. Meu objetivo é combinar alto impacto positivo social e compliance ou até mesmo alívio fiscal para grandes empresas. </sub>
+
+- 🤝 Also collaborating on "Toda Cidadã" organization, being responsible on intern systems and Maria Valente - A chatbot that helps women in vulnerability conditions to earn help and their rights in Brazil.
+<br><sub>Também colaborando na organização 'Toda Cidadâ', sendo responsável pelos sistemas internos e Maria Valente, um chatbot que ajuda mulheres em situações de vulnerabilidade a conseguirem ajuda e informações acerca dos direitos das mulheres no Brasil. </sub>
 
 - 🎓 Graduating in Systems Analisys and Development at PUC MG.
 <br><sub>Graduanda de Análise e Desenvolvimento de Sistemas na PUC Minas</sub>
-  
-- 🤝 Open to collaborate on exciting projects with collaborative team.
-<br><sub>Estou a procura de colaborar em projetos empolgantes em uma equipe colaborativa. </sub>
 
 - 😅 Fun fact: I've learned English by memes on internet.
 <br><sub>Fato engraçado: aprendi inglês através de memes na internet.</sub>
